@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>My First Proper HTML Website</title>
+</head>
+
+<style>
+body{background-color: #66ffff}
+</style>
+
+<body>
+<h1>Hello world!</h1>
+<h2>Created with HTML and Javascript</h2>
+<p>This is my first web page.</p>
+
+<hr/>
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="1100" height="700">
+    
+<script>
+var message = "Hello world! Welcome to my website";
+alert(message);
+</script>
+    
+    </body>    
+</html>
